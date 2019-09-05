@@ -1,3 +1,19 @@
+
+# RoboFriends
+This project has only learning meanings. It's one of the projects that I'm doing in my path to learn React Library
+
+## Table of Contents
+
+- [Project Info](#project_info)
+- [React functionalities](#REACT_FUNCTIONALITIES)
+
+
+## Project Info
+This projects displays diferent cards with Robots using the [RoboHash](https://robohash.org/) Api
+
+
+
+## REACT FUNCTIONALITIES
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
