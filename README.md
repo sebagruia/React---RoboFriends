@@ -5,8 +5,7 @@ This project has only learning meanings. It's one of the projects that I'm doing
 ## Table of Contents
 
 - [Project Info](#project_info)
-- [Web Link](https://sebagruia.github.io/React---RoboFriends/)
-- [React functionalities](#REACT_FUNCTIONALITIES)
+- [React functionalities](#REACT_FUNCTIONALITIES)git 
 
 
 ## Project Info
