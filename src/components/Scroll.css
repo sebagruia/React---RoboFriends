@@ -1,0 +1,36 @@
+.scroll-component{
+    height:65vh;
+    overflow-y: scroll;
+}
+
+
+@media screen and (min-width:320px) {
+    .scroll-component {
+        height: 68vh;
+    }
+}
+
+@media screen and (min-width: 375px){
+
+.scroll-component {
+    height: 66vh;
+}
+}
+@media screen and (min-width: 600px){
+
+    .card-list {
+        margin-top: 8%;
+    }
+}
+@media screen and (min-width: 1024px){
+
+    .card-list {
+        margin-top: 5%;
+    }
+}
+@media screen and (min-width: 1680px){
+
+    .scroll-component {
+        height: 57vh;
+    }
+}

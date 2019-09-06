@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css?family=Monoton&display=swap');
+
+h1{
+    font-family: 'Monoton', cursive;
+    color:#346969;
+}
+
+/*Media Query*/
+
+@media screen and (min-width:320px){
+    h1{
+        font-size:2rem !important;
+    }
+
+}
+
+@media screen and (min-width:400px){
+    h1{
+        font-size:2.5rem !important;
+    }
+
+}
+@media screen and (min-width:600px){
+    h1{
+        font-size:3rem !important;
+    }
+
+}
