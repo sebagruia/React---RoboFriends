@@ -11,7 +11,7 @@ export const setSearchField = (text) => ({
     payload: text
 })
 
-
+// By adding Redux-Thunk, Redux can understand the bellow function that returns another function and not an Object as usual. Redux-Thung is aware of this return and gives acces to the "dispach" function.
 export const requestRobots = () => (dispatch)=>{
     dispatch({type:REQUEST_ROBOTS_PENDING});
     fetch('https://jsonplaceholder.typicode.com/users')
